@@ -1,0 +1,6 @@
+[SCREEN]
+size = 100
+
+[STORAGE]
+storagedir = 
+
